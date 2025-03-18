@@ -95,3 +95,7 @@
 /users/register
 /users/registerConfirm
 /registresult.htm
+/manager/html
+/../manager/html
+/%2e%2e/manager/html
+/%252e%252e/manager/html
