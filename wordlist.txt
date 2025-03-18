@@ -30,21 +30,21 @@
 /verify
 /welcome
 /get-started
-/registro (Spanish)
-/inscrire (French)
-/registrieren (German)
-/registrati (Italian)
-/registreren (Dutch)
-/registro (Portuguese)
-/зарегистрироваться (Russian)
-/注册 (Chinese)
-/登録 (Japanese)
-/가입 (Korean)
-/wp-signup.php (WordPress)
+/registro
+/inscrire 
+/registrieren 
+/registrati 
+/registreren 
+/registro 
+/зарегистрироваться 
+/注册 
+/登録 
+/가입 
+/wp-signup.php
 /wp-login.php?action=register
-/magento/customer/account/create (Magento)
-/joomla/index.php?option=com_users&view=registration (Joomla)
-/drupal/user/register (Drupal)
+/magento/customer/account/create
+/joomla/index.php?option=com_users&view=registration
+/drupal/user/register
 /laravel/register
 /symfony/register
 /django/accounts/signup
@@ -57,7 +57,7 @@
 /api/v2/registration
 /api/accounts
 /api/members
-/graphql (with registration mutations)
+/graphql 
 /register/step1
 /signup/step2
 /join/complete
@@ -88,3 +88,10 @@
 /admin/register
 /staff/create-user
 /internal/registration
+/v1/agent/service/register
+/v1/service/register
+/v1/register
+/project/register.php
+/users/register
+/users/registerConfirm
+/registresult.htm
