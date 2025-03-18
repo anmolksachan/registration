@@ -286,3 +286,4 @@
 /register_old.html
 /signup.bak.php
 /create-account.aspx.bak
+/rockroll/forum/login.asp
