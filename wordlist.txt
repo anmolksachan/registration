@@ -1,0 +1,90 @@
+/wp-login.php?action=register
+/register
+/signup
+/create-account
+/join
+/new-user
+/create
+/apply
+/enroll
+/subscribe
+/membership
+/activation
+/registration
+/signup.php
+/register.php
+/create_user
+/new-account
+/user/new
+/account/create
+/account/signup
+/account/register
+/user/register
+/user/signup
+/identity/signup
+/auth/register
+/oauth/signup
+/invite
+/invitation
+/claim
+/verify
+/welcome
+/get-started
+/registro (Spanish)
+/inscrire (French)
+/registrieren (German)
+/registrati (Italian)
+/registreren (Dutch)
+/registro (Portuguese)
+/зарегистрироваться (Russian)
+/注册 (Chinese)
+/登録 (Japanese)
+/가입 (Korean)
+/wp-signup.php (WordPress)
+/wp-login.php?action=register
+/magento/customer/account/create (Magento)
+/joomla/index.php?option=com_users&view=registration (Joomla)
+/drupal/user/register (Drupal)
+/laravel/register
+/symfony/register
+/django/accounts/signup
+/rails/users/sign_up
+/shopify/signup
+/squarespace/signup
+/api/register
+/api/auth/signup
+/api/v1/users
+/api/v2/registration
+/api/accounts
+/api/members
+/graphql (with registration mutations)
+/register/step1
+/signup/step2
+/join/complete
+/create-account/verify
+/signup/confirm
+/register/details
+/signup/payment
+/mobile/register
+/android/signup
+/ios/create-account
+/app/signup
+/mobile-app-registration
+/register.html
+/signup.htm
+/create-account.aspx
+/register.jsp
+/signup.cgi
+/register.bak
+/signup_old
+/register_test
+/oauth/google/signup
+/oauth/facebook/register
+/social/signup
+/invite/facebook
+/google-auth/signup
+/admin/users/add
+/dashboard/signup
+/admin/register
+/staff/create-user
+/internal/registration
