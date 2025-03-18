@@ -41,7 +41,7 @@
 /登録 
 /가입 
 /wp-signup.php
-/wp-login.php?action=register
+/wp-login.php
 /magento/customer/account/create
 /joomla/index.php?option=com_users&view=registration
 /drupal/user/register
@@ -99,3 +99,13 @@
 /../manager/html
 /%2e%2e/manager/html
 /%252e%252e/manager/html
+/wp-content/plugins/theme-my-login/register/
+/wp-content/plugins/profile-builder/register/
+/wp-content/plugins/ultimate-member/register/
+/index.php?option=com_users&view=registration
+/component/users/?view=registration
+/customer/account/create/
+/accounts/register/
+/es/register
+/fr/inscription
+/de/registrieren
